@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://vincenzofdg.github.io/">
+  <a target="_blank" href="https://vincenzofdg.github.io/">
     <img alt="Typing dynamically generated" src="https://readme-typing-svg.herokuapp.com?color=67D2F0&size=24&center=true&vCenter=true&multiline=true&height=80&lines=I+am+Vincenzo+F.+Di+Giacomo;Click+Here+!!+💥💥💥"/>
   </a>
 </div>
