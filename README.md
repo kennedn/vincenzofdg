@@ -1,4 +1,4 @@
-## Olá, tudo bem? Meu nome é Vincenzo Fedzuirek Di Giacomo
+## Hi!! My name is Vincenzo F. Di Giacomo
  <div>
   <a href="https://github.com/Vincenzofdg">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Vincenzofdg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
