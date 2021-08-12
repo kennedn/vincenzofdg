@@ -1,4 +1,4 @@
-## Hello there! Glad to see you here.
+## Hello there! Glad to see you here. 💥💥💥
  <div>
   <a href="https://github.com/Vincenzofdg">
   <img height="168em" src="https://github-readme-stats.vercel.app/api?username=Vincenzofdg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
