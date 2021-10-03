@@ -13,7 +13,7 @@
  <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vincenzofdg&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div align="center" style="display: inline_block"><br>
- <img alt="Tools" height="50" width="60" src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif"/>
+ <img alt="Tools" height="35" width="45" src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif"/>
  <img alt="JavaScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img alt="React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  <img alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -21,7 +21,7 @@
  <img alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img alt="Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  <img alt="Git" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/git/git-original.svg">
- <img alt="Tools" height="50" width="60" src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif"/>
+ <img alt="Tools" height="35" width="45" src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif"/>
 </div>
 
 <hr>
