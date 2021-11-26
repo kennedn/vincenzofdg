@@ -12,8 +12,8 @@
   <img alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">&nbsp;&nbsp;&nbsp;
   <img alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">&nbsp;&nbsp;
   <br /><br />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Vincenzofdg&show_icons=true&count_private=true&theme=merko" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vincenzofdg&layout=compact&count_private=true&theme=merko" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Vincenzofdg&show_icons=true&count_private=true&theme=merko" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vincenzofdg&layout=compact&count_private=true&theme=merko" />
 </p>
 
 <hr />
