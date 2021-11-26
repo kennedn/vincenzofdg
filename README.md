@@ -1,75 +1,49 @@
-<div align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Hi+!!+I'm+a+FullStack+Developer.+💥💥💥" /></a>
-  </a>
-</div>
+<h3 align="center">👨‍💻 Who am I</h3>
+<p align="center">
+  <samp>I graduated with civil engineer degree and for the past year I have developed a fascination for technology and programming languages.</samp>
+</p>
 
-<div align="center">
- <img width="45%" height="250em" src="https://github-readme-stats.vercel.app/api?username=Vincenzofdg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- <img width="45%" height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vincenzofdg&layout=compact&langs_count=7&theme=dark"/>
-</div>
+<hr />
 
-<div align="center" style="display: inline_block">
-  
-  <span>
-    <img alt="html5" src="https://img.shields.io/badge/html_5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  </span>
+<!-- PROGRAMMING LANGUAGES -->
+<h3 align="center">💬 Programming Languages</h3>
+<p align="center">
+  <img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;&nbsp;
+  <img alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">&nbsp;&nbsp;&nbsp;
+  <img alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">&nbsp;&nbsp;
+  <br /><br />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Vincenzofdg&show_icons=true&count_private=true&theme=merko" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vincenzofdg&layout=compact&count_private=true&theme=merko" />
+</p>
 
-  <span>
-    <img alt="css3" src="https://img.shields.io/badge/css_3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  </span>
+<hr />
 
-  <span>
-    <img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  </span>
+<!-- MY TOOLS -->
+<h3 align="center"> 🔭 Tools and Frameworks</h3>
+<p align="center">
+  <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">&nbsp;&nbsp;&nbsp;
+  <img alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">&nbsp;&nbsp;&nbsp;
+  <img alt="html5" src="https://img.shields.io/badge/html_5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;&nbsp;
+  <img alt="css3" src="https://img.shields.io/badge/css_3-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp;&nbsp;
+  <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;&nbsp;&nbsp;
+  <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">&nbsp;&nbsp;&nbsp;
+  <img alt="typescript"src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">&nbsp;&nbsp;&nbsp;
+  <br /><br />
+  <img alt="scrum" src="https://img.shields.io/badge/scrum-1572B6?style=for-the-badge">&nbsp;&nbsp;&nbsp;
+  <img alt="kanban" src="https://img.shields.io/badge/kanban-CC2927?style=for-the-badge">&nbsp;&nbsp;&nbsp;
+</p>
 
-  <span>
-    <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  </span>
-  
-  <span>
-    <img alt="typescript"src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  </span>
+<hr />
 
-  <span>
-    <img alt="redux" src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
-  </span>
-  
-  <span>
-    <img alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  </span>
-  
-  <span>
-    <img alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  </span>
-  
-  <br/>
-  
-  <span>
-    <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-  </span>
-  
-  <span>
-    <img alt="scrum" src="https://img.shields.io/badge/scrum-1572B6?style=for-the-badge">
-  </span>
-  
-  <span>
-    <img alt="kanban" src="https://img.shields.io/badge/kanban-CC2927?style=for-the-badge">
-  </span>
-  
-</div>
+<!-- CONTACT -->
+<h3  align="center">📫 Reach me on</h3>
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/vincenzo-fedzuirek-di-giacomo-b52349198"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://t.me/vincenzofdg"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:vincenzofdg@hotmail.com?subject=Hello%20Vincenzo,%20From%20Github"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
-<div align="center" style="display: inline_block">
-  <h3>Contact Me</h3>
-  <a href="vincenzofdg.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
-  </a> 
-  <a href = "mailto:vincenzofdg@hotmail.com">
-    <img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/vincenzo-fedzuirek-di-giacomo-b52349198" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
- 
 ![Snake animation](https://github.com/Vincenzofdg/Vincenzofdg/blob/output/github-contribution-grid-snake.svg)
-</div>
 
+
+<!-- Source ==> https://dev.to/envoy_/150-badges-for-github-pnk -->
